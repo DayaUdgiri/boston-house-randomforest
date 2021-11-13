@@ -2,4 +2,4 @@ This is to build Random Forest model using scikit learn with its Boston Data to 
 
 Then basic website with flask api and deploy it along with model on Heroku.
 
-https://boston-house-predi-assignment.herokuapp.com/
+https://boston-house-randomforest.herokuapp.com/
